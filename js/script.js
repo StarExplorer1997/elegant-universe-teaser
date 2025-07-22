@@ -1,4 +1,4 @@
 
 document.addEventListener("DOMContentLoaded", () => {
-    console.log("Elegant Universe teaser loaded.");
+  console.log("Elegant Universe teaser loaded.");
 });
